@@ -11,4 +11,6 @@ My attempt to create a secure mailserver suite with modern components.
 
 - *Cyrus IMAP Server*
 - *Cypth Webmail client*
-
+- *Postfix*
+- *Decide AUTH*
+- *Decide SMTP*
