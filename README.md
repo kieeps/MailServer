@@ -9,8 +9,8 @@ My attempt to create a secure mailserver suite with modern components.
 
 ## **Components:**
 
-- *Cyrus IMAP Server*
-- *Cypth Webmail client*
-- *Postfix* (maby replace with Proxmox Mail Gateway and move aslias to LDAP?)
+- *[Cyrus](https://www.cyrusimap.org/) IMAP Server*
+- *[Cypth](https://cypht.org/) Webmail client*
+- *[Postfix](https://www.postfix.org/)* (maby replace with Proxmox Mail Gateway and move aslias to LDAP?)
 - *Decide AUTH*
 - *Decide SMTP*
